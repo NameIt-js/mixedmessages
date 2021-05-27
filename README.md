@@ -1,7 +1,7 @@
 # Bad Jokes message
-*Every time a user runs the program they would get a random message compound of a greeting a bad joke and a goodbye message*
+*Every time a user runs the program they would get a random message compound of a greeting, a bad joke, and a goodbye message*
 
-**Made by three diferent fucntions and three arrays***
+**Made by three diferent fucntions and three arrays [greetings, badJokes and goodbyes]**
 
 ## Random Number Function
 This function generates a random number of the lenght of the array
